@@ -1,0 +1,17 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://cushiwen.cn
+
+# Sitemaps
+Sitemap: https://cushiwen.cn/sitemap0.xml
+Sitemap: https://cushiwen.cn/sitemap1.xml
+Sitemap: https://cushiwen.cn/sitemap2.xml
+Sitemap: https://cushiwen.cn/sitemap3.xml
+Sitemap: https://cushiwen.cn/sitemap4.xml
+Sitemap: https://cushiwen.cn/sitemap5.xml
+Sitemap: https://cushiwen.cn/sitemap6.xml
+Sitemap: https://cushiwen.cn/sitemap7.xml
+Sitemap: https://cushiwen.cn/sitemap8.xml
